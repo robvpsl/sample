@@ -1,8 +1,6 @@
 #!/bin/bash
-cd ../backend/
-nohup npm start
-yes "" | command
+# cd ../backend/
+# nohup npm start
+# yes "" | command
 cd ../frontend/
-nohup node server.js
-yes "" | command
-exit 0
+node server.js

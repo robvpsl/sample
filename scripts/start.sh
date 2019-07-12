@@ -2,6 +2,6 @@
 # cd ../backend/
 # nohup npm start
 # yes "" | command
-cd ..
+ls
 cd frontend
 node server.js

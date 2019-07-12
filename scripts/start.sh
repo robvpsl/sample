@@ -2,6 +2,5 @@
 # cd ../backend/
 # nohup npm start
 # yes "" | command
-ls
-cd frontend
+cd /home/ec2-user/sample/frontend
 node server.js
